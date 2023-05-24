@@ -6,15 +6,15 @@
     "slug": "cobi-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 393,
-    "timeDay": 639,
-    "timeWeek": 403,
-    "timeMonth": 308,
-    "timeYear": 393,
+    "time": 391,
+    "timeDay": 308,
+    "timeWeek": 390,
+    "timeMonth": 312,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2023-05-22": 16
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 112,
+    "timeDay": 137,
     "timeWeek": 107,
-    "timeMonth": 102,
+    "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 61,
-    "timeWeek": 83,
-    "timeMonth": 89,
+    "timeDay": 108,
+    "timeWeek": 84,
+    "timeMonth": 90,
     "timeYear": 85,
     "dailyMinutesDown": {}
   }
