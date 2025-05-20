@@ -1,7 +1,7 @@
 url: $API_COBI
-status: down
-code: 404
-responseTime: 365
-lastUpdated: 2025-05-20T01:03:40.746Z
+status: up
+code: 200
+responseTime: 7536
+lastUpdated: 2025-05-20T02:48:00.390Z
 startTime: 2023-04-11T19:57:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
