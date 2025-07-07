@@ -4,7 +4,7 @@
     "url": "$API_COBI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cobi-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 540,
     "timeYear": 380,
     "dailyMinutesDown": {
+      "2025-07-07": 0,
       "2025-05-20": 153,
       "2025-05-16": 21,
       "2025-03-12": 15,
