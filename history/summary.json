@@ -54,7 +54,7 @@
     "url": "$COBI_MQTT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ws-port",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
