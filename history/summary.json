@@ -4,19 +4,20 @@
     "url": "$API_COBI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cobi-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 418,
     "timeDay": 761,
     "timeWeek": 557,
     "timeMonth": 558,
-    "timeYear": 360,
+    "timeYear": 361,
     "dailyMinutesDown": {
-      "2026-04-23": 59
+      "2026-04-23": 59,
+      "2026-07-31": 8
     }
   },
   {
@@ -24,11 +25,11 @@
     "url": "$COBI_MQTT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mqtt-port",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.59%",
     "time": 31,
     "timeDay": 67,
@@ -42,7 +43,8 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1029,
-      "2026-06-03": 297
+      "2026-06-03": 297,
+      "2026-07-31": 4
     }
   },
   {
@@ -50,9 +52,9 @@
     "url": "$COBI_MQTT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ws-port",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.59%",
@@ -68,7 +70,8 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1029,
-      "2026-06-03": 293
+      "2026-06-03": 293,
+      "2026-07-31": 0
     }
   }
 ]
