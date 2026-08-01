@@ -4,20 +4,21 @@
     "url": "$API_COBI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cobi-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 418,
-    "timeDay": 761,
-    "timeWeek": 557,
-    "timeMonth": 558,
+    "time": 419,
+    "timeDay": 591,
+    "timeWeek": 540,
+    "timeMonth": 553,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2026-04-23": 59,
-      "2026-07-31": 8
+      "2026-08-01": 4,
+      "2026-07-31": 11
     }
   },
   {
@@ -25,16 +26,16 @@
     "url": "$COBI_MQTT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mqtt-port",
-    "status": "down",
+    "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.59%",
     "time": 31,
-    "timeDay": 67,
-    "timeWeek": 32,
-    "timeMonth": 38,
+    "timeDay": 42,
+    "timeWeek": 30,
+    "timeMonth": 37,
     "timeYear": 31,
     "dailyMinutesDown": {
       "2025-10-01": 1073,
@@ -44,7 +45,8 @@
       "2025-11-29": 1440,
       "2025-11-28": 1029,
       "2026-06-03": 297,
-      "2026-07-31": 4
+      "2026-08-01": 4,
+      "2026-07-31": 7
     }
   },
   {
@@ -52,16 +54,16 @@
     "url": "$COBI_MQTT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ws-port",
-    "status": "down",
+    "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "98.59%",
     "time": 31,
-    "timeDay": 68,
-    "timeWeek": 33,
-    "timeMonth": 38,
+    "timeDay": 42,
+    "timeWeek": 31,
+    "timeMonth": 37,
     "timeYear": 31,
     "dailyMinutesDown": {
       "2025-10-01": 1073,
@@ -71,7 +73,8 @@
       "2025-11-29": 1440,
       "2025-11-28": 1029,
       "2026-06-03": 293,
-      "2026-07-31": 0
+      "2026-08-01": 5,
+      "2026-07-31": 3
     }
   }
 ]
