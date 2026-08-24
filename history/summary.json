@@ -26,16 +26,16 @@
     "url": "$COBI_MQTT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mqtt-port",
-    "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.59%",
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "98.58%",
     "time": 31,
     "timeDay": 18,
-    "timeWeek": 32,
-    "timeMonth": 36,
+    "timeWeek": 30,
+    "timeMonth": 35,
     "timeYear": 31,
     "dailyMinutesDown": {
       "2025-10-01": 1073,
@@ -45,7 +45,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1029,
       "2026-06-03": 297,
-      "2026-08-24": 4
+      "2026-08-24": 40
     }
   },
   {
@@ -53,15 +53,15 @@
     "url": "$COBI_MQTT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ws-port",
-    "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.59%",
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "98.58%",
     "time": 31,
     "timeDay": 19,
-    "timeWeek": 33,
+    "timeWeek": 31,
     "timeMonth": 36,
     "timeYear": 31,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1029,
       "2026-06-03": 293,
-      "2026-08-24": 0
+      "2026-08-24": 36
     }
   }
 ]
